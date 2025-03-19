@@ -1,2 +1,2 @@
 # Aleksei-s-Katas
-McAss's loh
+McAss is loh
